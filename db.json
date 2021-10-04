@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Learn Vue",
+      "time": "Every day",
+      "category": "Vue",
+      "finished": false
+    },
+    {
+      "title": "Add a function that helps choose the category",
+      "time": "2021 / 10 / 1",
+      "finished": true,
+      "category": "Vue",
+      "id": 4
+    },
+    {
+      "title": "Tasks page can show tasks from different category",
+      "time": "2021 / 10 / 1",
+      "finished": true,
+      "category": "Vue",
+      "id": 5
+    },
+    {
+      "title": "The delete function",
+      "time": "2021 / 10 / 1",
+      "finished": true,
+      "category": "Vue",
+      "id": 6
+    },
+    {
+      "title": "Add animations",
+      "time": "2021 / 10 / 1",
+      "finished": true,
+      "category": "Vue",
+      "id": 7
+    },
+    {
+      "title": "Use emoji instead of name of category",
+      "time": "2021 / 10 / 1",
+      "finished": false,
+      "category": "Vue",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "title": "uncategorized",
+      "id": 1
+    },
+    {
+      "title": "School",
+      "id": 2
+    },
+    {
+      "title": "Vue",
+      "id": 3
+    }
+  ]
+}
